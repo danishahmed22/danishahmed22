@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/danishahmeds207" target="blank"><img src="https://img.shields.io/twitter/follow/danishahmeds207?logo=twitter&style=for-the-badge" alt="danishahmeds207" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and exploring application development 🙂😉**
+- 🌱 I’m currently learning **Flutter and exploring application development **
 
-- 💬 Ask me about **Application development, Indian railways, Cricket, Technologies 😎😌**
+- 💬 Ask me about **Application development, Indian railways, Cricket, Technologies **
 
 - 📫 How to reach me **siddiquidanish973@gmail.com**
 
 - 📄 Know about my experiences [https://linktr.ee/danishahmeds](https://linktr.ee/danishahmeds)
 
-- ⚡ Fun fact **I love to travel and eat.😁**
+- ⚡ Fun fact **I love to travel and eat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
