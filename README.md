@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/danishahmed22/danishahmed22/blob/main/danish%20ahmed%20siddiqui.png)
 <h1 align="center">Hi 👋, I'm Danish Ahmed Siddiqui</h1>
 <h3 align="center">A passionate learner</h3>
 
